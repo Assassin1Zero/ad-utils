@@ -1,0 +1,11 @@
+{
+  "name": "ad-utils",
+  "version": "0.0.0",
+  "description": "A utilty library for advertising",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Stuart Williams",
+  "license": "ISC"
+}

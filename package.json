@@ -1,6 +1,6 @@
 {
   "name": "ad-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A utilty library for advertising",
   "main": "index.js",
   "scripts": {

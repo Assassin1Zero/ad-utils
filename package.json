@@ -1,11 +1,19 @@
 {
-  "name": "ad-utils",
-  "version": "0.0.2",
-  "description": "A utilty library for advertising",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "author": "Stuart Williams",
-  "license": "ISC"
+    "name": "ad-utils",
+    "version": "0.0.2",
+    "description": "A utilty library for advertising",
+    "main": "index.js",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tuvac/ad-utils.git"
+    },
+    "author": "Stuart Williams",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tuvac/ad-utils/issues"
+    },
+    "homepage": "https://github.com/tuvac/ad-utils#readme",
+    "author": "Stuart Williams",
+    "license": "ISC"
 }

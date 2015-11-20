@@ -1,8 +1,12 @@
 var flashVersion = require('./lib/flash-detect'),
-    frameUtils = require('./lib/frame-utils');
+    frameUtils = require('./lib/frame-utils'),
+    helper = require('./lib/helper'),
+    dimensions = require('./lib/dimensions');
 
 module.exports = {
 
     flashVersion: flashVersion,
-    frameUtils: frameUtils
+    frame: frameUtils,
+    helper: helper,
+    dimensions: dimensions
 };
